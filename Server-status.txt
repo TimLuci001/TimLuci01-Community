@@ -1,0 +1,3 @@
+git rebase -i HEAD~n
+# Displays a list of the last 3 commits on the current branch
+$ git rebase -i HEAD~3
